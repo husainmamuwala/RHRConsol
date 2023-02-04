@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+    @font-face{
+        font-family: "Mulish";
+        src: url('/fonts/.woff2') format('woff2');
+        font-family: 'Montserrat', sans-serif
+
+    }
+    
+}
